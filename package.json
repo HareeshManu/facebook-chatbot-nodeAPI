@@ -1,0 +1,25 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "facebook messenger chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HareeshManu@github.com/HareeshManu/facebook-chatbot-nodeAPI.git"
+  },
+  "author": "HareeshManu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HareeshManu/facebook-chatbot-nodeAPI/issues"
+  },
+  "homepage": "https://github.com/HareeshManu/facebook-chatbot-nodeAPI#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
